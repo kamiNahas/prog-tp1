@@ -1,0 +1,8 @@
+.content_card{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px; /*espacio entre columnas*/
+    /*grid-template-areas: 
+    "c1 c2 c3";*/
+    
+}

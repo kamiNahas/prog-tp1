@@ -1,0 +1,38 @@
+.card{
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+
+}
+.contenedor_imagen{
+    display: grid;
+    justify-content: center;
+}
+.imagen{
+    margin-top: 2.3rem;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.card img{
+    border: 2.1px solid #777;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.contenido{
+    padding: 16px;
+}
+.nombre{
+    font-size: 25px;
+   margin-bottom: 8px;
+  text-align: center;
+
+}
+.descripcion{
+    font-size:20px;
+    color: #777;
+    text-align: center;
+}

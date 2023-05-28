@@ -1,0 +1,16 @@
+.lista {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    font-size: xx-large;
+    text-align: center;
+
+}
+.nombres{
+    margin-left: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+
+}
+.simbolo{
+    font-size: 26px;
+}

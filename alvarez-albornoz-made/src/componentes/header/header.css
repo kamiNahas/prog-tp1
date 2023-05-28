@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -20px;
+    
+    
+  }
+  .titulo{
+      display: block;
+      font-weight: bold;
+      font-size: 50px;
+      color: #ffffff;
+      text-align: center;
+      margin-bottom: 40px;
+      font-family:serif;
+      font: size 5px;;
+  }
+  .subtitulo{
+      display: block;
+      font-size: large;
+      color: #ffffff;
+      margin-top: -25px;
+  
+  }
